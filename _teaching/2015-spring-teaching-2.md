@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: 
 venue:
-date: 2015-01-01
+date: 
 location: 
 ---
 
