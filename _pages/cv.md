@@ -15,21 +15,11 @@ Education
 * M.A. in American Studies, Columbia University, 2023
 * B.A. in Metropolitan Studies, Minor in East Asian Studies, New York University, 2019
   
-Skills
+Research Keywords
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Ethnic studies, Asian American studies, urban studies, financialization, Digital Humanities, casinos, placemaking
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  
