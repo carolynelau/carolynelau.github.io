@@ -1,10 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Brown University"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: ""The City: An Introduction to Urban Studies""
+date: Spring 2026
+venue: "Museum Collecting and Collections "
+date: Fall 2025
 location: "City, Country"
 ---
 
